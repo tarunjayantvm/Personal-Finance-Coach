@@ -1,6 +1,44 @@
-# Personal Finance Coach
+# 💰 Personal Finance Coach
 
-A Streamlit app that analyzes monthly income and expenses, recommends budgeting and saving strategies, and provides a finance coaching chat experience using an OpenRouter-compatible LLM.
+An AI-powered **Personal Finance Coach** built with **Streamlit** and an **OpenRouter-compatible LLM**. The application helps users analyze their monthly income and expenses, create personalized budgets, receive practical saving recommendations, understand financial concepts, and generate actionable financial improvement plans through an interactive chat interface.
+
+---
+
+## ✨ Features
+
+- 📊 Analyze monthly income and expenses
+- 💵 Personalized budgeting recommendations
+- 💰 Smart saving strategies
+- 📈 Financial health analysis
+- 🎯 Goal-based financial planning
+- 📚 Simple explanations of finance concepts
+- 🤖 AI-powered conversational finance coach
+- ⚡ Powered by OpenRouter-compatible LLMs
+- 🎨 Clean and interactive Streamlit interface
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python**
+- **Streamlit**
+- **OpenRouter API**
+- **Large Language Models (LLMs)**
+- **python-dotenv**
+
+---
+
+## 📂 Project Structure
+
+```
+.
+├── streamlit_app.py
+├── requirements.txt
+├── .env.example
+├── README.md
+```
+
+---
 
 ## Setup
 

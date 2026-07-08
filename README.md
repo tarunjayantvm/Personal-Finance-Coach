@@ -60,4 +60,18 @@ An AI-powered **Personal Finance Coach** built with **Streamlit** and an **OpenR
 - `LLM_BASE_URL`
 - `LLM_MODEL`
 
+---
+
+## 🌟 Future Improvements
+
+- 📈 Expense visualization and charts
+- 💹 Investment recommendations
+- 📅 Monthly financial reports
+- 🎯 Goal tracking dashboard
+- 💳 Expense categorization
+- 📄 PDF financial reports
+- 🔔 Savings reminders
+
+---
+
 

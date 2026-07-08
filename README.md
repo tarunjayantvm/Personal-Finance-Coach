@@ -22,7 +22,4 @@ A Streamlit app that analyzes monthly income and expenses, recommends budgeting 
 - `LLM_BASE_URL`
 - `LLM_MODEL`
 
-## Notes
 
-- The app uses a calculator tool for budget calculations.
-- `.env` is ignored in Git via `.gitignore`.
